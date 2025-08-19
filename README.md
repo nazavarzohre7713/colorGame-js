@@ -25,7 +25,7 @@ Navigate into the project folder:
 cd colorGame-js
 Open index.html in your browser to play the game.
 
-🎨 Features
+##🎨 Features
 
 Random color generation
 
@@ -39,7 +39,7 @@ Modern and clean glass-style design
 
 Fully responsive layout
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 HTML5
 
